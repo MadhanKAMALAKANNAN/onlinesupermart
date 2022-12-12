@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermart/onlinesupermart.csproj": {}
+  },
+  "projects": {
+    "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermart/onlinesupermart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermart/onlinesupermart.csproj",
+        "projectName": "onlinesupermart",
+        "projectPath": "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermart/onlinesupermart.csproj",
+        "packagesPath": "/Users/madhankamalakannan/.nuget/packages/",
+        "outputPath": "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermart/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/madhankamalakannan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100-rc.2.22477.23/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

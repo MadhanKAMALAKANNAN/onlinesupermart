@@ -1,0 +1,63 @@
+﻿<Properties StartupConfiguration="{0C520D1A-BAAC-45F9-B13C-C946DF958FA5}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="onlinesupermartSQLElasticDB/Sharding.cs">
+    <Files>
+      <File FileName="AuthenticationLibrary/Authentication.cs" Line="84" Column="21" />
+      <File FileName="ShardingSimulationTimer/ShardingSimulationTimerClass.cs" Line="59" Column="30" />
+      <File FileName="ShardingSimulationTimer/Program.cs" Line="72" Column="59" />
+      <File FileName="onlinesupermartSQLElasticDB/ShardingEntryClass.cs" />
+      <File FileName="onlinesupermartSQLElasticDB/Sharding.cs" Line="148" Column="1" />
+      <File FileName="onlinesupermartSQLElasticDB/appsettings.json" Line="24" Column="23" />
+      <File FileName="onlinesupermartSQLElasticDB/CreateRangeShard.cs" Line="132" Column="57" />
+      <File FileName="onlinesupermartSQLElasticDB/ShardManagementUtils.cs" Line="170" Column="1" />
+      <File FileName="onlinesupermartSQLElasticDB/SqlDatabaseUtils.cs" Line="1" Column="1" />
+      <File FileName="onlinesupermartSQLElasticDB/Migrations/201405280437372_InitialCreate.cs" Line="32" Column="18" />
+      <File FileName="onlinesupermartSQLElasticDB/Migrations/201405280437372_InitialCreate.Designer.cs" />
+      <File FileName="onlinesupermartSQLElasticDB/Models/Blogs.cs" Line="18" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="onlinesupermart" expanded="True">
+            <Node name="AuthenticationLibrary" expanded="True" />
+            <Node name="AuthenticationLibraryUnitTest" expanded="True" />
+            <Node name="onlinesupermartSQLElasticDB" expanded="True">
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True" />
+            </Node>
+            <Node name="ShardingSimulationTimer" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
+            <Node name="ShardingTest" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>ShardMap</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.onlinesupermartSQLElasticDB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{3C692030-07CC-48A1-BE9B-005393DCE9F5}" ItemName="ShardingSimulationTimer" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.ShardingUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ShardingSimulationTimer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <DisabledProjects>
+    <String>EncriptDecriptTest/EncriptDecriptTest.csproj</String>
+    <String>CustomersAZ/CustomersAZ.csproj</String>
+    <String>FAzureFunctionsNet6.0/ShardingAZF.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.AuthenticationLibraryUnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <Debugger.DebugSourceFolders>
+    <String>/Users/madhankamalakannan/Library/Caches/VisualStudio/17.0/Symbols/raw.githubusercontent.com/Azure/azure-functions-host/a781311a61259833c0dd7d964116c9d9b5dcbf68</String>
+  </Debugger.DebugSourceFolders>
+</Properties>

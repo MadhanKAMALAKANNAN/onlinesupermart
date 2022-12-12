@@ -1,0 +1,247 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/madhankamalakannan/Projects/onlinesupermart/EncriptDecriptTest/EncriptDecriptTest.csproj": {}
+  },
+  "projects": {
+    "/Users/madhankamalakannan/Projects/onlinesupermart/AuthenticationLibrary/AuthenticationLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madhankamalakannan/Projects/onlinesupermart/AuthenticationLibrary/AuthenticationLibrary.csproj",
+        "projectName": "AuthenticationLibrary",
+        "projectPath": "/Users/madhankamalakannan/Projects/onlinesupermart/AuthenticationLibrary/AuthenticationLibrary.csproj",
+        "packagesPath": "/Users/madhankamalakannan/.nuget/packages/",
+        "outputPath": "/Users/madhankamalakannan/Projects/onlinesupermart/AuthenticationLibrary/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/madhankamalakannan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermartSQLElasticDB/onlinesupermartSQLElasticDB.csproj": {
+                "projectPath": "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermartSQLElasticDB/onlinesupermartSQLElasticDB.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.25.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/madhankamalakannan/Projects/onlinesupermart/EncriptDecriptTest/EncriptDecriptTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madhankamalakannan/Projects/onlinesupermart/EncriptDecriptTest/EncriptDecriptTest.csproj",
+        "projectName": "EncriptDecriptTest",
+        "projectPath": "/Users/madhankamalakannan/Projects/onlinesupermart/EncriptDecriptTest/EncriptDecriptTest.csproj",
+        "packagesPath": "/Users/madhankamalakannan/.nuget/packages/",
+        "outputPath": "/Users/madhankamalakannan/Projects/onlinesupermart/EncriptDecriptTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/madhankamalakannan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "/Users/madhankamalakannan/Projects/onlinesupermart/AuthenticationLibrary/AuthenticationLibrary.csproj": {
+                "projectPath": "/Users/madhankamalakannan/Projects/onlinesupermart/AuthenticationLibrary/AuthenticationLibrary.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermartSQLElasticDB/onlinesupermartSQLElasticDB.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermartSQLElasticDB/onlinesupermartSQLElasticDB.csproj",
+        "projectName": "onlinesupermartSQLElasticDB",
+        "projectPath": "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermartSQLElasticDB/onlinesupermartSQLElasticDB.csproj",
+        "packagesPath": "/Users/madhankamalakannan/.nuget/packages/",
+        "outputPath": "/Users/madhankamalakannan/Projects/onlinesupermart/onlinesupermartSQLElasticDB/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/madhankamalakannan/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EnterpriseLibrary.TransientFaultHandling.Data": {
+              "target": "Package",
+              "version": "[6.0.1304.1, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.9, )"
+            },
+            "Microsoft.Azure.Functions.Extensions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.Azure.SqlDatabase.ElasticScale.Client": {
+              "target": "Package",
+              "version": "[2.3.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.10, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.NET.Sdk.Functions": {
+              "target": "Package",
+              "version": "[4.1.3, )"
+            },
+            "System.Data.Entity.Repository": {
+              "target": "Package",
+              "version": "[2.0.0.1, )"
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
