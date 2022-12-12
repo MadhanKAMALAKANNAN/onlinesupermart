@@ -44,7 +44,7 @@ public class UnitTest1
     public static void ShardingTest()
     {
         Sharding sharding = new Sharding(); var lastDbName1 = "";
-        do
+      //  do
         {
      
              
@@ -115,10 +115,10 @@ public class UnitTest1
                 }
 
                 //ShardingSimulationTimer
-                Console.WriteLine("do you want to create another user (yes=)");
+               // Console.WriteLine("do you want to create another user (yes=)");
             }
         }
-        while (Console.ReadLine() == "y");
+       // while (Console.ReadLine() == "y");
 
 
     }
